@@ -1,0 +1,7 @@
+{
+  "name": "AIRender",
+  "description": "Send the active Revit view to 3Dstudio.co AI Render.",
+  "author": "3Dstudio.co",
+  "version": "0.1.0",
+  "url": "https://app.3dstudio.co"
+}
